@@ -19,6 +19,10 @@ Once the PDF text is extracted, it needs to be processed using LangChain’s too
 Allow the user to input questions and receive responses based on the content extracted from the PDF document. The user will interact with the chatbot by entering questions, and the bot will provide answers based on the document’s content.
 ### PROGRAM:
 ```
+
+NAME: A K PREETHI
+REGISTER NUMBER:212223230156
+
 import os
 import datetime
 import panel as pn
@@ -108,7 +112,9 @@ ui.servable()
 
 ```
 ### OUTPUT:
-<img width="879" height="405" alt="image" src="https://github.com/user-attachments/assets/38c5c38a-07b8-420d-83cc-f331b6efc1de" />
+<img width="921" height="569" alt="Screenshot 2025-09-26 110935" src="https://github.com/user-attachments/assets/9b88b3cc-6e95-4575-ab8b-7d8d6d720f84" />
+<img width="799" height="482" alt="Screenshot 2025-09-26 111004" src="https://github.com/user-attachments/assets/c292bf68-f3b2-4598-9a94-108f6736fd14" />
+<img width="794" height="293" alt="Screenshot 2025-09-26 111120" src="https://github.com/user-attachments/assets/430d0b49-ea55-47ff-aa77-355647a6d0e1" />
 
 
 ### RESULT:
